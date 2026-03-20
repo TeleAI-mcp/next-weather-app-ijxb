@@ -1,2 +1,3 @@
-# next-weather-app-ijxb
-Automated issue comment bot repository
+# Next Weather App Ijxb
+
+Automated issue comment bot repository.
